@@ -6,7 +6,10 @@ A high-performance Django REST API that calculates the most cost-effective fuel 
 
 ## 📸 Demo
 
-*(Replace the image link below with your actual frontend screenshots once available)*
+<img width="1349" height="597" alt="image" src="https://github.com/user-attachments/assets/43c4a5e3-090e-4256-a414-aec9c213130c" />
+<img width="935" height="560" alt="image" src="https://github.com/user-attachments/assets/762b9d17-b0c9-415d-9ab6-784d576a4969" />
+<img width="927" height="264" alt="image" src="https://github.com/user-attachments/assets/e329d960-8201-44ea-a820-05d2f66a52c9" />
+
 
 ![Map Preview](https://via.placeholder.com/800x450.png?text=Frontend+Map+Preview+Screenshot+Goes+Here)
 
